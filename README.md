@@ -97,3 +97,7 @@ Think about how you structured the data from your web scraper. Did you scrape th
 ```python
 #Use this block for your code!
 ```
+
+## Summary
+
+Congratulations! You've now practiced your Beautiful Soup knowledge!
