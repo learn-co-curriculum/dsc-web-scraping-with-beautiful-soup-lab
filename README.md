@@ -397,3 +397,6 @@ Think about how you structured the data from your web scraper. Did you scrape th
 
 
 Currently the above function scrapes the lyrics verbatim. This costs the most in terms of storage but is the most malleable for future analysis. Alternative views such as a dictionary count of word frequencies would save storage space and makes some analyses quicker (such as plotting word frequencies) but would make other analyses such as a n-gram analysis impossible. In this context, scraping raw transcripts and then producing additional cached views of summaries such as frequency is probably the most sensible as storage size is not likely to be an issue at this scale.
+
+## Summary
+Congratulations! You've now practiced your Beautiful Soup knowledge!
